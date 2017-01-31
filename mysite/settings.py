@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'MSK'
+TIME_ZONE = 'GMT+4'
 
 USE_I18N = True
 
